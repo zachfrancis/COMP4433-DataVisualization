@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kansas"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -102.09,
+                            36.97
+                        ],
+                        [
+                            -94.58,
+                            36.97
+                        ],
+                        [
+                            -94.58,
+                            39.99
+                        ],
+                        [
+                            -102.09,
+                            39.99
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nebraska"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -104.04,
+                            40.98
+                        ],
+                        [
+                            -102.09,
+                            40.98
+                        ],
+                        [
+                            -102.09,
+                            39.99
+                        ],
+                        [
+                            -95.37,
+                            39.99
+                        ],
+                        [
+                            -96.76,
+                            42.94
+                        ],
+                        [
+                            -104.04,
+                            42.94
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
